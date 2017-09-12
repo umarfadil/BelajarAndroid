@@ -7,4 +7,4 @@ https://github.com/kevinhermawan/AndroidUserInterface
 ### 2. User Input
 https://github.com/kevinhermawan/AndroidUserInput
 
-https://github.com/kevinhermawan/CourtCounter
+https://github.com/kevinhermawan/AndroidCourtCounter
