@@ -8,3 +8,5 @@ https://github.com/kevinhermawan/AndroidUserInterface
 https://github.com/kevinhermawan/AndroidUserInput
 
 https://github.com/kevinhermawan/AndroidCourtCounter
+
+### Semuanya dipelajari dari [Udacity](https://udacity.com) :heart:
